@@ -1,4 +1,3 @@
 - 👋 Hi, I’m MrLocomotive
 - 👀 I’m interested in Architecture, Civil Engineering, Transit and many others things related to sciences
-- 🌱 I’m currently learning to live a happy life in peace with myself
-- ⚡ Fun fact: I'm a man
+- ⚡ Fun fact: I'm a human
